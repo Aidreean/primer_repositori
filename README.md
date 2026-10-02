@@ -1,4 +1,4 @@
-# primer_repositori
+# Primer Repositori
 Aquest és el meu primer repo. 
 Projecte 2
 Adrià Oset Nguema
