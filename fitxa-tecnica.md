@@ -23,18 +23,6 @@ Explicar la instal·lació i configuració bàsica del servidor Kea DHCP.
 ```bash
 sudo systemctl status kea-dhcp4-server
 
-## Comprovacions
-
-- [ ] Servei actiu
-- [ ] Adreces IP assignades correctament
-
-## Incidències i solucions
-
-| Incidència | Solució |
-|---|---|
-| El servei no arrenca | Revisar configuració |
-| No reparteix IPs | Comprovar la subxarxa |
-
 ## Recursos
 
 - https://docs.github.com/
